@@ -129,3 +129,4 @@ A* is a combination of Dijkstra and Greedy. It uses distance from the root node 
 - [Breadth-First Search React JS Tutorial](https://www.youtube.com/watch?v=8o4ng90Uqso&list=LL&index=1&t=181s)
 - [Breadth-First Search Tutorial HackerRank](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial)
 - [Breadth-First Search Tutorial HackerRank - MIT Courseware](https://www.youtube.com/watch?v=s-CYnVz-uh4)
+- [A-Star Path Finding Tutorial - Coding Train](https://www.youtube.com/watch?v=aKYlikFAV4k&t=652s)
